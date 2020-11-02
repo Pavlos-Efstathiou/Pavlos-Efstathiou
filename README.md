@@ -1,6 +1,6 @@
 <img src="“https://raw.githubusercontent.com/Cyber-Doom/Cyber-Doom/master/header.svg”"></img>
 
-### Skills: Basic Python, Bash, Basic Kotlin, Git
+### Skills: Basic Python, Basic Kotlin, Bash, Git
 
 ### 🔭 I’m currently working on on this page. 
 
