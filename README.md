@@ -5,7 +5,7 @@
 
 ## 💻 I'm currently working on
 
-<a href="https://isocpp.org/" target="_blank"><img src="https://github.com/github/explore/blob/master/topics/c/c.[ng">
+<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://github.com/github/explore/blob/master/topics/c/c.png">
 <br/>
 
 ## 🧠 Using
