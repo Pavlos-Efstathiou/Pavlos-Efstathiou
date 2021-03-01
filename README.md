@@ -5,12 +5,12 @@
 
 ## 💻 I'm currently working on
 
-<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://github.com/github/explore/blob/master/topics/c/c.png">
+<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://github.com/github/explore/blob/main/topics/c/c.png">
 <br/>
 
 ## 🧠 Using
 
-<img src="https://github.com/github/explore/blob/master/topics/c/c.png">
+<img src="https://github.com/github/explore/blob/main/topics/c/c.png">
 <br/>
 <br/>
 <br/>
