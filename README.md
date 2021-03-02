@@ -1,5 +1,5 @@
 ### Hey World 👋🏻, I'm Pavlos!!
-- 👨🏽‍💻 I’m currently working on 3DS App Development
+- 👨🏽‍💻 I’m currently working on App Development in C
 - 🌱 I’m currently learning **[C](http://www.open-std.org/jtc1/sc22/wg14/ "C")** 
 <br>
 
