@@ -1,3 +1,4 @@
+<!--
 ### Hey World 👋🏻, I'm Pavlos!!
 - 👨🏽‍💻 I’m currently working on App Development in C
 - 🌱 I’m currently learning **[C](http://www.open-std.org/jtc1/sc22/wg14/ "C")** 
@@ -15,4 +16,4 @@
 <br/>
 <br/>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Pavlos-Efstathiou&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Pavlos-Efstathiou&show_icons=true) -->
