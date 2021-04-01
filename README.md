@@ -1,6 +1,6 @@
 
 ### Hey World 👋🏻, I'm Pavlos!!
-- 👨🏽‍💻 I’m currently learning Rust
+<!-- - 👨🏽‍💻 I’m learning Rust -->
 - 🌱 I’m currently learning **Rust** 
 <br>
 
