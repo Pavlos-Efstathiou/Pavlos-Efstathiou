@@ -1,5 +1,7 @@
 ### Stats
- 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlos-Efstathiou&show_icons=true&theme=monokai)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavlos-Efstathiou&theme=monokai)
  
 ![](https://github-readme-stats.vercel.app/api?username=Pavlos-Efstathiou&show_icons=true&theme=monokai)
