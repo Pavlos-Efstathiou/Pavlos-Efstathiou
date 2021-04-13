@@ -8,7 +8,7 @@
    
 ### Wakatime(Don't Work)...
    
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Pavlos-Efstathiou&show_icons=true&theme=monokai)
+<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=Pavlos-Efstathiou&show_icons=true&theme=monokai) -->
 
 ### Trophies...
 
