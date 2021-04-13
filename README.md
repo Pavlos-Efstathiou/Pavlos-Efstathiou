@@ -8,8 +8,6 @@
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavlos-Efstathiou&theme=monokai)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavlos-Efstathiou&theme=monokai)
-
 <!--
 ### Wakatime
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Pavlos-Efstathiou&show_icons=true&theme=monokai) 
