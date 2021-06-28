@@ -1,12 +1,12 @@
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlos-Efstathiou&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlos-Efstathiou&theme=tokyonight)
  
-![](https://github-readme-stats.vercel.app/api?username=Pavlos-Efstathiou&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Pavlos-Efstathiou&show_icons=true&theme=tokyonight)
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pavlos-Efstathiou&show_icons=true&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pavlos-Efstathiou&show_icons=true&theme=tokyonight)
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavlos-Efstathiou&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavlos-Efstathiou&theme=tokyonight)
 
 <!--
 ### Wakatime
@@ -15,4 +15,4 @@
 
 ### Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pavlos-Efstathiou&theme=dark">
+<img src="https://github-profile-trophy.vercel.app/?username=Pavlos-Efstathiou&theme=tokyonight">
