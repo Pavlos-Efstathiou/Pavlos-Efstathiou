@@ -6,7 +6,7 @@
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pavlos-Efstathiou&show_icons=true&theme=tokyonight)
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavlos-Efstathiou&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavlos-Efstathiou&theme=monokai)
 
 <!--
 ### Wakatime
@@ -15,4 +15,4 @@
 
 ### Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pavlos-Efstathiou&theme=tokyonight">
+<img src="https://github-profile-trophy.vercel.app/?username=Pavlos-Efstathiou&theme=dark">
