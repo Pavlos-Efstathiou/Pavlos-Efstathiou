@@ -15,4 +15,4 @@
 
 ### Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pavlos-Efstathiou&theme=monokai">
+<img src="https://github-profile-trophy.vercel.app/?username=Pavlos-Efstathiou&theme=dark">
