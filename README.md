@@ -17,6 +17,6 @@ main = do
 
 ```rust
 fn main() {
-    println!("Bye!");
+    println!("Bye again!");
 }
 ```
