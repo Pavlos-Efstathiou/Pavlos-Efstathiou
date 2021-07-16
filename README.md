@@ -7,3 +7,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pavlos-Efstathiou&show_icons=true&theme=tokyonight)
  
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavlos-Efstathiou&theme=monokai) -->
+
+
+
+```haskell
+main = do
+    putStrLn "Bye!"
+```
+
+```rust
+fn main() {
+    println!("Bye!");
+}
+```
